@@ -12,12 +12,12 @@ My name is Diego. I'm from Argentina and i'm a Javascript Developer.
 - Node JS
 - React JS
 - Docker
+- Blockchain
+- SQL
+- NoSQL
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 👀 I’m interested in investigation of new technologies
+- 🌱 I’m currently learning Blockchain
 
 
 <!---
